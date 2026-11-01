@@ -19,7 +19,7 @@
 
 melody = {
   \key d \minor
-  \tempo 4 = 110
+  \tempo 4 = 100
     \clef treble
 
       % --- بخش A ---
